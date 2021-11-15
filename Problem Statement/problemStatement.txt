@@ -1,0 +1,24 @@
+Abstract
+Most players in the automotive sector are investing in ML for their marketing efforts, a much smaller group is putting in place incentives and key performance indicators (KPIs) to use more ML and automation. Closing the gap requires a stronger commitment to developing ML capability that is not just useful but also used.
+
+Problem Statement
+Use regression analysis to predict vehicle performance (mileage i.e kilometre travelled per litre)
+
+Data Description
+Kilometer_per_liter -> distance in kilometre travelled per litre(mileage)
+
+cylinders -> No of cylinders
+
+displacement -> displacement
+
+horsepower -> A horsepower is a unit of measurement of power, or the rate at which work is done, usually in reference to the output of engines or motors
+
+weight -> Weight of car
+
+acceleration -> Acceleration of Car
+
+model -> year Model Year of the car
+
+origin -> Country origin
+
+car -> name Car brand and model name (unique for each instance
